@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Home</item>
+        <item>Syllabus</item>
+        <item>Telegram</item>
+        <item>Online Compiler</item>
+        <item>Developer Contact</item>
+        <item>Rate us</item>
+        <item>FeedBack</item>
+        <item>Log Out</item>
+
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_baseline_home_24</item>
+        <item>@drawable/ic_baseline_menu_book_24</item>
+        <item>@drawable/ic_baseline_message_24</item>
+        <item>@drawable/ic_baseline_adb_24</item>
+        <item>@drawable/ic_baseline_laptop_24</item>
+        <item>@drawable/ic_baseline_star_rate_24</item>
+        <item>@drawable/ic_baseline_feedback_24</item>
+        <item>@drawable/ic_logout_grey600_24dp</item>
+    </array>
+
+
+
+</resources>

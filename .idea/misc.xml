@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/drawable/ic_baseline_feedback_24.xml" value="0.20038610038610039" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/drawable/result_card.xml" value="0.202734375" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/drawable/resultcard2.xml" value="0.202734375" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/aboutus.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_about_us.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_developer_profile.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_donate.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_edit_profile.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_feedback.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_login.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_main.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_main_dashboard.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_onliner_compiler.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_pdf_view.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_semester1st.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_semester6th.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_semester_3rd.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_semester_4th.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_semester_5th.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_sign_up.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_syllubus.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/activity_userprofile.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/compiler.xml" value="0.15027322404371585" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/developer.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/drawer_menu.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/feedback.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/item.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/item_option.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/otherapp.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/pdf_view.xml" value="0.190625" />
+        <entry key="..\:/Users/vivek/Documents/BCANotes/app/src/main/res/layout/syllubus.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

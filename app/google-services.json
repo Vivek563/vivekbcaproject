@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534242565100",
+    "firebase_url": "https://bca-note.firebaseio.com",
+    "project_id": "bca-note",
+    "storage_bucket": "bca-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534242565100:android:953feda930282a274cbec9",
+        "android_client_info": {
+          "package_name": "com.vivek.bcanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534242565100-nui4tkpnlltqm7n7geug8pv7jnn1l415.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9FOtPbFpx4RwbaJgyPe2bq1HE-xSegs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534242565100-nui4tkpnlltqm7n7geug8pv7jnn1l415.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

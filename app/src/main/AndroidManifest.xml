@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vivek.bcanotes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+
+    <application
+        android:name="com.vivek.bcanotes.MyApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BCANotes">
+        <activity
+            android:name=".Donate"
+            android:exported="false" />
+        <activity
+            android:name=".Semester.Semester_6th"
+            android:exported="false" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".Onliner_Compiler" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".userprofile" />
+        <activity android:name=".pdf_view" />
+        <activity android:name=".Miniprojectidea" />
+        <activity android:name=".Semester.Semester_5th" />
+        <activity android:name=".Semester.Semester_4th" />
+        <activity android:name=".Semester.Semester_3rd" />
+        <activity android:name=".About_us" />
+        <activity android:name=".Developer_profile" />
+        <activity android:name=".Semester.syllubus" />
+        <activity android:name=".Semester.Semester2nd" />
+        <activity android:name=".Semester.Semester1st" />
+        <activity android:name=".MainDashboard"/>
+
+<!--        </activity>-->
+        <activity android:name=".Sign_up" /> <!-- Notes -->
+        <activity android:name=".Notes.embeeded_system" />
+        <activity android:name=".Notes.secure_computing" /> <!-- end -->
+        <activity android:name=".Login" />
+        <activity android:name=".MainActivity"
+            android:exported="true">
+
+        <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+
+                 <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6367744599593234~4705912443" />
+
+        <service
+            android:name=".PushNotificationService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

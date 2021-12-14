@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BCA Notes</string>
+
+    <string name="Vivek">Vivek Maurya</string>
+
+    <string name="bca">BCA Notes</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="todo">TODO</string>
+    <string name="account">Small Step Towards \nBCA Family</string>
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+
+    <string name="exam">This Application is built for the BCA students of University of Allahabad and it constituent colleges.The app is built for quick revision and reference during examination.</string>
+    <string name="ashutoshsir">I will always be grateful to you for your support and kindness. It would be impossible to count all the ways that you have helped me in my career. Thank you so much for all that you have done. Thanks for being a good mentor and for guiding me on the right path.</string>
+
+
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="reward">Note: by clicking at this button you will earn points which you will able to use in future</string>
+    <string name="my_desc">Doing at the sweet spot between aesthetics and elegance to give life to your brand.My opinion belong to nobody but Myself.</string>
+
+
+
+
+
+    //ads unit id banner ads
+    <string name="adbanner">ca-app-pub-6367744599593234/2421735973</string>
+    <string name="interstitialads">ca-app-pub-6367744599593234/8795572638</string>
+    <string name="appopner">ca-app-pub-6367744599593234/5775377809</string>
+
+
+    <!-- <string name="bannerfb">401026237960227_401026767960174</string>
+
+    <string name="initifb">401026237960227_401027874626730</string>-->
+
+    <!--<string name="initifb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="bannerfb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+    <string name="project">"1. Face detection \n2. Online auction system \n3. Evaluation of academic performance \n4. e-Authentication system\n5. Cursor movement on object motion \n6. Crime rate prediction \n7. Android battery saver system \n8. Symbol recognition \n9. Public news droid \n10. Search engine \n11. Online eBook maker \n12. Mobile wallet with merchant payment \n13. Clinic Management \n14. GYM Management \n15. Food Ordering  \n16. Messing hiding\n17. Hangman Game \n18. E-Voting \n19. Android Arcade game\n20. Electronic shop Management \nEtc....."</string>
+    <string name="version">Version 6.0.3</string>
+
+
+    // IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID
+</resources>
