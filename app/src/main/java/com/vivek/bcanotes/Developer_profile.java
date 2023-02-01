@@ -77,8 +77,8 @@ public class Developer_profile extends AppCompatActivity {
         back = findViewById(R.id.back);
         insta = findViewById(R.id.instagram);
 
-        findViewById(R.id.instagram).setOnClickListener(v -> clicked_btn("https://www.instagram.com/letcodeit/"));
-        findViewById(R.id.instagramgg).setOnClickListener(v -> clicked_btn("https://www.instagram.com/vivekmaurya_563/"));
+        findViewById(R.id.instagram).setOnClickListener(v -> clicked_btn("https://www.instagram.com/vivekmaurya_563/"));
+        findViewById(R.id.instagramgg).setOnClickListener(v -> clicked_btn("https://www.instagram.com/letcodeit/"));
         findViewById(R.id.fbbb).setOnClickListener(v -> clicked_btn("https://github.com/Vivek563"));
         findViewById(R.id.linkdin).setOnClickListener(v -> clicked_btn("https://www.linkedin.com/in/vivek563maurya/"));
 

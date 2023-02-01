@@ -93,13 +93,16 @@
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:gravity="center"
                     android:orientation="vertical">
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/proximanovaregular"
                         android:text="Vivek Maurya"
+                        android:textAlignment="center"
                         android:textColor="#0B0A0A"
                         android:textSize="21sp"
                         android:textStyle="bold" />
@@ -109,7 +112,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/proximanovaregular"
-                        android:text="(Android Developer)"
+                        android:text="(Android Developer || FullStack Developer)"
                         android:textStyle="bold"
                         android:textColor="#0B0A0A"
                         android:textSize="14sp" />
@@ -502,7 +505,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="20dp"
-                                android:text="Language - C, C++, Java,React Native"
+                                android:text="Language - \nC, C++, Java, HTML, CSS, JavaScript, React, React Native, Node.js, Express.js, Mongodb,"
                                 android:textColor="@color/goodgrey"
                                 android:textSize="15sp" />
                         </LinearLayout>

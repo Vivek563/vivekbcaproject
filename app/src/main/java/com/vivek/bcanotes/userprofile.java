@@ -12,7 +12,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -29,6 +28,8 @@ import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 
 import javax.annotation.Nullable;
+
+import io.reactivex.annotations.NonNull;
 
 public class userprofile extends AppCompatActivity {
 
@@ -164,7 +165,7 @@ public class userprofile extends AppCompatActivity {
                     }
                 });
 
-                passwordResetDialog.create().show();
+                passwordResetDialog.create();
 
             }
         });

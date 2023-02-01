@@ -74,7 +74,7 @@ dependencies {
 
 
         // Import the BoM for the Firebase platform
-        implementation platform('com.google.firebase:firebase-bom:28.3.0')
+    implementation platform('com.google.firebase:firebase-bom:30.1.0')
 
         // Declare the dependencies for the In-App Messaging and Analytics libraries
         // When using the BoM, you don't specify versions in Firebase library dependencies

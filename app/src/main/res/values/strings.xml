@@ -29,9 +29,9 @@
 
 
     //ads unit id banner ads
-    <string name="adbanner">ca-app-pub-6367744599593234/2421735973</string>
-    <string name="interstitialads">ca-app-pub-6367744599593234/8795572638</string>
-    <string name="appopner">ca-app-pub-6367744599593234/5775377809</string>
+    <string name="adbanner">ca-app-pub-6367744599593234/5345820742</string>
+    <string name="interstitialads">ca-app-pub-6367744599593234/1455011309</string>
+    <string name="appopner">ca-app-pub-6367744599593234/6930365153</string>
 
 
     <!-- <string name="bannerfb">401026237960227_401026767960174</string>
@@ -42,7 +42,7 @@
     <string name="bannerfb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
 
     <string name="project">"1. Face detection \n2. Online auction system \n3. Evaluation of academic performance \n4. e-Authentication system\n5. Cursor movement on object motion \n6. Crime rate prediction \n7. Android battery saver system \n8. Symbol recognition \n9. Public news droid \n10. Search engine \n11. Online eBook maker \n12. Mobile wallet with merchant payment \n13. Clinic Management \n14. GYM Management \n15. Food Ordering  \n16. Messing hiding\n17. Hangman Game \n18. E-Voting \n19. Android Arcade game\n20. Electronic shop Management \nEtc....."</string>
-    <string name="version">Version 6.0.3</string>
+    <string name="version">Version 6.0.4</string>
 
 
     // IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID
